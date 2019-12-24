@@ -21,7 +21,7 @@ import org.hibernate.SessionFactory;
 
 /**
  *
- * @author 17677
+ * @author 17685
  */
 public class Zdraste extends HttpServlet {
 
